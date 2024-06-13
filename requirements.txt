@@ -1,6 +1,7 @@
 fastapi
 uvicorn
-python-dotenv
-
 sqlalchemy
-
+passlib
+pydantic
+python-dotenv
+databases
